@@ -1,0 +1,6 @@
+node_modules
+.env
+gym_tracker.db
+gym_tracker.db-journal
+gym_tracker.db-wal
+gym_tracker.db-shm
